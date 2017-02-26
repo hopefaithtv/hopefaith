@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Message of hope when you are overwhelmed by life's challenges"
+title:  "Take Control of your Thoughts"
 date:   2017-02-27 16:16:01 -0600
 image: '/images/pages/episode2.jpg'
 ---
