@@ -4,5 +4,5 @@
   featured: true
   author: john
   tags: [python, ruby, java]
-  image: '/images/posts/image.jpeg'
+  image: '/images/about.png'
   ---
