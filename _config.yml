@@ -13,6 +13,7 @@ baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://hopefaithtv.github.io/hopefaith/' # The base hostname & protocol for your site
 github_username:  HopeFaith TV
 twitter_username: HopeFaithTV
+facebook_username: HopeFaithTV
 
 markdown:  kramdown
 permalink: pretty
@@ -54,3 +55,5 @@ authors:
     website:          http://hopefaithtv.com
     github_username:  hopefaithtv
     twitter_username: HopeFaithTV
+    facebook_username: HopeFaithTV
+    
