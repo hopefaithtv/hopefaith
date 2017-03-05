@@ -23,19 +23,17 @@
         {% if site.twitter_username %}
         <li>
           <a href="http://www.twitter.com/{{ site.twitter_username }}" target="_blank">
-            <span data-icon="ei-sc-twitter" data-size="s"></span>
+            <i class="fa fa-twitter"></i> Twitter
           </a>
         </li>
         {% endif %}
-
        {% if site.facebook_username %}
-  <li>
-    <a href="https://www.facebook.com/{{ site.facebook_username }}">
-      <i class="fa fa-facebook"></i> Facebook
-    </a>
-  </li>
-{% endif %}
-
+       <li>
+         <a href="https://www.facebook.com/{{ site.facebook_username }}">
+          <i class="fa fa-facebook"></i> Facebook
+        </a>
+      </li>
+        {% endif %}
         {% if site.email %}
         <li>
           <a href="mailto:{{ site.email }}" target="_blank">
