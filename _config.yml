@@ -12,7 +12,7 @@ description:      Sharing the Hope, Faith and Truth of the Gospel of Jesus Chris
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://hopefaithtv.github.io/hopefaith/' # The base hostname & protocol for your site
 github_username:  HopeFaith TV
-twitter_username: HopeFaith TV
+twitter_username: HopeFaithTV
 
 markdown:  kramdown
 permalink: pretty
