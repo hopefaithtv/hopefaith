@@ -11,7 +11,6 @@ email:            hopefaithtvministry@gmail.com
 description:      Sharing the Hope, Faith and Truth of the Gospel of Jesus Christ
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://hopefaithtv.github.io/hopefaith/' # The base hostname & protocol for your site
-github_username:  HopeFaith TV
 twitter_username: HopeFaithTV
 facebook_username: HopeFaithTV
 
@@ -53,7 +52,6 @@ authors:
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
     email:            hopefaithtvministry@gmail.com
     website:          http://hopefaithtv.com
-    github_username:  hopefaithtv
     twitter_username: HopeFaithTV
     facebook_username: HopeFaithTV
     
