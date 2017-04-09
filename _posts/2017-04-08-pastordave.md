@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are you Miserable? Gods grace can life you up"
+title:  "Are you Miserable? Gods grace can lift you up"
 date:   2017-04-07 16:16:01 -0600
 image: '/images/pages/episode2.jpg'
 ---
