@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life Lessons from David"
-date:   2017-06-15 16:16:01 -0600
+date:   2017-06-13 16:16:01 -0600
 image: '/images/pages/biblereaders_image.jpg'
 ---
 Get ready for the book of Proverbs – have your high-lighter or journaling notebook beside you – Every time you see a “nugget” in this precious book, take note of it. There is enough “ammo” here to make you into a righteous, successful, rich and wise person (with great marriage and family relationships to boot)!
