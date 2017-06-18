@@ -4,10 +4,10 @@ title:  "God has not given up on you"
 date:   2017-06-18 16:16:01 -0600
 image: '/images/pages/Swahili_Website_Icon.jpg'
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nkaeVc1rCeo" frameborder="0" allowfullscreen></iframe>
-So Let us fix our eyes on Jesus, the pioneer and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God. (Hebrews 12:2)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/07KfXfU6Fhc" frameborder="0" allowfullscreen></iframe>
+God has not given up on you. He knows the challenges you face everyday. Just like he did with Ruth, God will answer and restore your life, your health, your mind and your soul.
 
-Hosts: Maureen & Pastor <br>
+Hosts: Maureen & Pastori <br>
 Guest Speaker: Pastor Boniface Mgonja <br>
 Senior Pastor, The Calvary Church Edmonton <br>
 Website: www.thecalvary.ca
