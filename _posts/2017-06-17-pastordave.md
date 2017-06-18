@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are you miserable? God's grace will lift you up"
-date:   2017-06-16 16:16:01 -0600
+date:   2017-06-16 17:16:01 -0600
 image: '/images/pages/episode2_image.jpg'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B54OVLMlWOE" frameborder="0" allowfullscreen></iframe>
