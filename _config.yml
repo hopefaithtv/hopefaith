@@ -16,7 +16,7 @@ facebook_username: HopeFaithTV-1635543393125902
 
 markdown:  kramdown
 permalink: pretty
-paginate:  12
+paginate:  9
 sass:
   style: compressed
 
