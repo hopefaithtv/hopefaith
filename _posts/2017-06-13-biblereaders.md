@@ -20,3 +20,9 @@ Questions:
 1. Give another Biblical account of an offering that cost something.
 Give an example of when you felt God was stooping down to make you great.
 2. Tell of an instance where you stepped out to “scale a wall” and God gave you the strength to do it.
+
+Author: Pastor Dave Roussel <br>
+Associate Pastor, Peoples Church Edmonton <br>
+Website: <a href="http://www.biblereaders.ca">www.biblereaders.ca</a> <br>
+Website: <a href="http://www.peopleschurchedmonton.com">www.peopleschurchedmonton.com</a> <br>
+Email: daveroussel@me.com
