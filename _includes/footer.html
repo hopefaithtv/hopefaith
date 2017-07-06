@@ -20,6 +20,13 @@
 
     <div class="column large-12 footer__section">
       <ul class="list-bare footer__nav social-icons text-center">
+        {% if site.youtube_username %}
+        <li>
+          <a href="http://www.youtube.com/{{ site.youtube_username }}" target="_blank">
+            <i class="fa fa-twitter"></i> YouTube
+          </a>
+        </li>
+        {% endif %}
         {% if site.twitter_username %}
         <li>
           <a href="http://www.twitter.com/{{ site.twitter_username }}" target="_blank">
@@ -33,8 +40,7 @@
           <i class="fa fa-facebook"></i> Facebook
         </a>
       </li>
-        {% endif %}
-       
+        {% endif %} 
       </ul>
     </div>
 
