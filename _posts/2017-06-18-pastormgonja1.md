@@ -10,6 +10,7 @@ God has not given up on you. He knows the challenges you face everyday. Just lik
 Hosts: Maureen & Pastori <br>
 Guest Speaker: Pastor Boniface Mgonja <br>
 Senior Pastor, The Calvary Church Edmonton <br>
-Website: <a href="http://www.thecalvary.ca">thecalvary.ca</a>
+Website: <a href="http://www.thecalvary.ca">www.thecalvary.ca</a>
+Email: mgonja@ualberta.ca
 
 
