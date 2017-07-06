@@ -11,6 +11,7 @@ Hosts: Papa Richard & Tabitha <br>
 Guest Speaker: Pastor Dr. Rene Vincent Tshibula <br>
 Senior Pastor, From The Heart of Edmonton <br>
 Website: www.fromtheheartedmonton.ca
+Email: pastor@fromtheheartedmonton.org
 
 
 
