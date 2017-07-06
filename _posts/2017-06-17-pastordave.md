@@ -9,6 +9,6 @@ Are you in a state of misery? Be encouraged by the amazing testimony of Pastor D
 
 Hosts: Ronnie & Maureen <br>
 Guest Speaker: Pastor Dave Roussel <br>
-Website: www.biblereaders.ca <br>
+Website: <a href="http://www.biblereaders.ca">www.biblereaders.ca</a> <br>
 Email: daveroussel@me.com
 
