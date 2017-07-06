@@ -8,5 +8,7 @@ image: '/images/pages/episode2_image.jpg'
 Are you in a state of misery? Be encouraged by the amazing testimony of Pastor Dave. God can and will lift you up. 
 
 Hosts: Ronnie & Maureen <br>
-Guest Speaker: Pastor Dave Roussel
+Guest Speaker: Pastor Dave Roussel <br>
+Website: www.biblereaders.ca <br>
+Email: daveroussel@me.com
 
