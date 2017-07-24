@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let God direct your path in this life"
+title:  "Let God direct your footsteps in this life"
 date:   2017-07-20 01:16:01 -0600
 image: '/images/pages/MamaMukasa.jpg'
 ---
