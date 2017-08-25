@@ -7,8 +7,8 @@ image: '/images/pages/newepisode7.jpg'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IZOVYSyDbb0" frameborder="0" allowfullscreen></iframe>
 Do you feel helpless and tired? Our heavenly father has given us access to talk to him through prayer. When we pray to God honestly, he promises to intervene because he is faithful to his word.
 
-Hosts: Maureen & Ronnie
-Guest Speaker: Pastor Andrew Mukasa 
+Hosts: Maureen & Ronnie<br>
+Guest Speaker: Pastor Andrew Mukasa <br>
 Senior Pastor, Victory Christian Centre, Dar-es-salaam, Tanzania
 
 
