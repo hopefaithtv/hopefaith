@@ -20,6 +20,15 @@
 
     <div class="column large-12 footer__section">
       <ul class="list-bare footer__nav social-icons text-center">
+        
+        {% if site.youtube_username %}
+        <li>
+          <a href="http://www.youtube.com/{{ site.youtube_username }}" target="_blank">
+            YouTube
+          </a>
+        </li>
+        {% endif %}
+        
         {% if site.facebook_username %}
         <li>
           <a href="http://www.facebook.com/{{ site.facebook_username }}" target="_blank">
