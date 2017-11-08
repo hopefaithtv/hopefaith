@@ -38,7 +38,13 @@
       {% if author.facebook_username %}
       <div class="author-link inline-block">
         <a href="http://www.facebook.com/{{ author.facebook_username }}" target="_blank">
-         test
+        </a>
+      </div>
+      {% endif %}
+      
+       {% if author.youtube_username %}
+      <div class="author-link inline-block">
+        <a href="http://www.youtube.com/{{ author.youtube_username }}" target="_blank">
         </a>
       </div>
       {% endif %}
