@@ -12,15 +12,6 @@
       <div class="column medium-9 large-9">
         <nav class="site-header__navigation navigation">
           <ul class="list-bare">
-            {% for page in site.pages %}
-              {% unless page.name == '404.md' %}
-                {% if page.title %}
-                  <li>
-                    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                  </li>
-                {% endif %}
-              {% endunless %}
-            {% endfor %}
               <li>
               <a href="https://twitter.com/HopeFaithTV" target="_blank">
                 <span data-icon="ei-sc-twitter" data-size="s"></span>
@@ -31,6 +22,16 @@
                 <span data-icon="ei-sc-facebook" data-size="s"></span>
               </a>
             </li>
+            {% for page in site.pages %}
+              {% unless page.name == '404.md' %}
+                {% if page.title %}
+                  <li>
+                    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  </li>
+                {% endif %}
+              {% endunless %}
+            {% endfor %}
+            
           </ul>
         </nav>
       </div>
