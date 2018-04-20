@@ -10,7 +10,7 @@ Sexual sin has very serious consequences but God can set you free. "...The body,
 Hosts: Papa Richard & Tabitha <br>
 Guest Speaker: Pastor Dr. Rene Vincent Tshibula <br>
 Senior Pastor, From The Heart of Edmonton <br>
-Website: <a href="http://www.fromtheheartedmonton.ca">www.fromtheheartedmonton.ca </a> <br>
+Website: <a href="http://www.fromtheheartedmonton.org">www.fromtheheartedmonton.org </a> <br>
 Email: pastor@fromtheheartedmonton.org
 
 
